@@ -8,5 +8,5 @@ Its me Aarif Husain👋
 - 📫 How to reach me: mail@aarifhusain.com
 
 My Projects
-- 📫 How to reach me: mail@aarifhusain.com
-- 📫 How to reach me: mail@aarifhusain.com
+- ✔️ Vanilla-Javascript-Project-Tutorial: https://aarifhusaincom.github.io/Vanilla-Javascript-Project-Tutorial/
+- 🕜 analogue-clock: https://aarifhusaincom.github.io/analogue-clock/
