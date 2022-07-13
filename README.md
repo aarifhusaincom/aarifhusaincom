@@ -1,6 +1,5 @@
-### Hi there,
+### Assalamualaikum, Its me Aarif Husain👋,
 
-Its me Aarif Husain👋
 
 - 🔭 I’m currently working on frontend animation 
 - 🌱 I’m currently learning React JS and Mongo DB
