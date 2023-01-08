@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on frontend animation 
 - 🌱 I’m currently learning React JS and Mongo DB
-- 💬 Connect with me on telegram at https://t.me/aarifhusain
+- 📞 Connect with me on [WhatsApp](https://wa.me/918884446009)
+- 💬 Connect with me on [Telegram](https://telegram.me/aarifhusain)
 - 📫 How to reach me: mail@aarifhusain.com
 
 My Projects
