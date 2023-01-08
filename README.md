@@ -7,7 +7,8 @@
 - 📞 [WhatsApp](https://wa.me/918884446009)
 - 💬 [Telegram](https://telegram.me/aarifhusaincom)
 - 🏢 [LinkedIn](https://www.linkedin.com/in/aarifhusaincom/)
-- 🏢 [Instagram](https://www.instagram.com/aarifhusaincom/)
+- 🏢 [Instagr![Instagram_logo_2022 svg](https://user-images.githubusercontent.com/37788558/211182709-27902456-9d7d-442e-9294-a09379d82f85.png)
+am](https://www.instagram.com/aarifhusaincom/)
 - 📫 How to reach me: mail@aarifhusain.com
 
 My Projects
