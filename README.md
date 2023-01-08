@@ -8,5 +8,5 @@
 - 📫 How to reach me: mail@aarifhusain.com
 
 My Projects
-- [✔️ Vanilla-Javascript-Project-Tutorial](https://vanilla-javascript-todo.web.app/)
-- 🕜 analogue-clock: https://aarifhusain.com/analogue-clock/
+- [✔️ To-Do list](https://aarifhusain.com/Projects/vanilla-javascript-todo/)
+- [🕜 analogue-clock](https://aarifhusain.com/Projects/analogue-clock/)
