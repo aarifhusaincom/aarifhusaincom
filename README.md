@@ -20,7 +20,7 @@
 
 
 
-- 📫 mail@aarifhusain.com
+- 📫 [mail@aarifhusain.com](mailto:mail@aarifhusain.com)
 
 ### My Projects
 - [✔️ To-Do list](https://aarifhusain.com/Projects/vanilla-javascript-todo/)
