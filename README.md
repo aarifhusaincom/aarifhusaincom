@@ -9,4 +9,4 @@
 
 My Projects
 - [✔️ To-Do list](https://aarifhusain.com/Projects/vanilla-javascript-todo/)
-- [🕜 analogue-clock](https://aarifhusain.com/Projects/analogue-clock/)
+- [🕜 Analogue Clock](https://aarifhusain.com/Projects/analogue-clock/)
