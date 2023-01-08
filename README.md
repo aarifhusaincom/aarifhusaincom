@@ -15,7 +15,7 @@
 
 - ![Instagram_logo](https://user-images.githubusercontent.com/37788558/211183686-5b4a5301-0564-4e90-b245-cb716806d229.svg) [Instagram](https://www.Instagram.com/aarifhusaincom/)
 
-- ![youtube](https://user-images.githubusercontent.com/37788558/211183688-8bf8cc95-7c82-442a-bb77-984b1e999ae0.svg) [Youtube](https://www.Youtube.com/c/aarifhusaincom/)
+- ![youtube](https://user-images.githubusercontent.com/37788558/211183688-8bf8cc95-7c82-442a-bb77-984b1e999ae0.svg) [Youtube](https://www.youtube.com/@aarifhusaincom)
 
 
 
