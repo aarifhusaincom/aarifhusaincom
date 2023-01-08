@@ -8,20 +8,19 @@
 - 📞 [WhatsApp](https://wa.me/918884446009)
 - 💬 [Telegram](https://telegram.me/aarifhusaincom)
 - 🏢 [LinkedIn](https://www.linkedin.com/in/aarifhusaincom/)
-- ![Instagram_logo](https://user-images.githubusercontent.com/37788558/211183000-5fe0976c-0999-4329-8d1c-4df98680f93f.svg)  [Instagram](https://www.linkedin.com/in/aarifhusaincom/)
+- [Instagram](https://www.linkedin.com/in/aarifhusaincom/)
 
-![Linked_in_small](https://user-images.githubusercontent.com/37788558/211183271-6efaf662-b723-4281-b72f-1c31ba892d1d.svg)
+- ![Whatsapp_squarcle](https://user-images.githubusercontent.com/37788558/211183671-90517760-b24e-4e45-9656-e4cb7d73b9c1.svg) [WhatsApp](https://wa.me/918884446009)
 
-![telegram](https://user-images.githubusercontent.com/37788558/211183277-7ae84798-c3a5-4b97-9a1b-336558c2a90c.svg)
+- ![telegram](https://user-images.githubusercontent.com/37788558/211183677-b8b055ac-f9f7-4b35-b3ca-eb5399519563.svg) [Telegram](https://telegram.me/aarifhusaincom)
+
+- ![Linked_in_small](https://user-images.githubusercontent.com/37788558/211183680-745874c8-52be-472a-9c9e-0b67c758df57.svg) [LinkedIn](https://www.linkedin.com/in/aarifhusaincom/)
+
+- ![Instagram_logo](https://user-images.githubusercontent.com/37788558/211183686-5b4a5301-0564-4e90-b245-cb716806d229.svg) [Instagram](https://www.Instagram.com/in/aarifhusaincom/)
+
+- ![youtube](https://user-images.githubusercontent.com/37788558/211183688-8bf8cc95-7c82-442a-bb77-984b1e999ae0.svg) [Youtube](https://www.Youtube.com/c/aarifhusaincom/)
 
 
-
-![Whatsapp_squarcle](https://user-images.githubusercontent.com/37788558/211183278-f714cc01-dbad-4dc2-ad85-e4898399bb4f.svg)
-
-![youtube](https://user-images.githubusercontent.com/37788558/211183281-e22c7087-6521-46a6-b52a-abea4f98c7b9.svg)
-
-
-![Instagram_logo](https://user-images.githubusercontent.com/37788558/211183282-f9b337fb-3ec3-4cb7-9194-f3229be950a3.svg)
 
 
 - 📫 How to reach me: mail@aarifhusain.com
