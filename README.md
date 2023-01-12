@@ -23,5 +23,5 @@
 - 📫 [mail@aarifhusain.com](mailto:mail@aarifhusain.com)
 
 ### My Projects
-- [✔️ To-Do list](https://aarifhusain.com/Projects/vanilla-javascript-todo/)
-- [🕜 Analogue Clock](https://aarifhusain.com/Projects/analogue-clock/)
+- [✔️ To-Do list](https://aarifhusain.com/projects/vanilla-javascript-todo/)
+- [🕜 Analogue Clock](https://aarifhusain.com/projects/analogue-clock/)
