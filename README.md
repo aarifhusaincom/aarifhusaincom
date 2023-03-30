@@ -7,9 +7,9 @@
 
 ### 🔗 Connect with me on
 
-- ![Whatsapp_squarcle](https://user-images.githubusercontent.com/37788558/211183671-90517760-b24e-4e45-9656-e4cb7d73b9c1.svg) [WhatsApp](https://wa.me/918884446009)
+- ![Whatsapp_squarcle](https://user-images.githubusercontent.com/37788558/211183671-90517760-b24e-4e45-9656-e4cb7d73b9c1.svg) [WhatsApp](https://wa.me/919303154950)
 
-- ![telegram](https://user-images.githubusercontent.com/37788558/211183677-b8b055ac-f9f7-4b35-b3ca-eb5399519563.svg) [Telegram](https://telegram.me/aarifhusaincom)
+- ![telegram](https://user-images.githubusercontent.com/37788558/211183677-b8b055ac-f9f7-4b35-b3ca-eb5399519563.svg) [Telegram](https://telegram.me/aarifhusain)
 
 - ![LinkedIn](https://user-images.githubusercontent.com/37788558/211183776-521b2715-2bdb-47de-bbc9-a6082056ac4b.svg) [LinkedIn](https://www.linkedin.com/in/aarifhusaincom/)
 
@@ -20,7 +20,7 @@
 
 
 
-- 📫 [mail@aarifhusain.com](mailto:mail@aarifhusain.com)
+- 📫 [office@aarifhusain.com](mailto:office@aarifhusain.com)
 
 ### My Projects
 - [✔️ To-Do list](https://aarifhusain.com/projects/vanilla-javascript-todo/)
