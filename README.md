@@ -1,5 +1,5 @@
-![Aarif in black cutom BG DP](https://github.com/user-attachments/assets/7ad7ca9f-0d1b-457b-b52d-17434bc97d62)
-![AarifArtPic1](https://user-images.githubusercontent.com/37788558/211183911-da48a8d7-7541-43b1-b2eb-99d6e7259d6c.svg)
+![100 by 100](https://github.com/user-attachments/assets/a9095f77-6175-4de8-9d99-63fd28ee4ec0)
+
 # Assalamualaikum, Its me Aarif Husain👋,
 
 
