@@ -3,8 +3,8 @@
 # Assalamualaikum, Its me Aarif Husain👋,
 
 
-- 🔭 I’m currently working on backend API development. 
-- 🌱 I’m currently learning Mongo DB, Express Js, React JS and Node JS
+- 🔭 I’m currently working on App development using Flutter. 
+- 🌱 I’m currently learning Firebase, BloC, Mongo DB, Express Js, and Node JS.
 
 ### 🔗 Connect with me on
 
